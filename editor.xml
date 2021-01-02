@@ -1,7 +1,8 @@
 <application>
   <component name="DefaultFont">
-    <option name="FONT_SIZE" value="14" />
+    <option name="FONT_SIZE" value="15" />
     <option name="FONT_FAMILY" value="Hack FC Ligatured" />
+    <option name="LINE_SPACING" value="1.6" />
     <option name="USE_LIGATURES" value="true" />
     <option name="SECONDARY_FONT_FAMILY" value="Fira Code Retina" />
   </component>
